@@ -1,3 +1,4 @@
 # Hacktober_TCET
 # Rishabh Hacktober
-# shreya gupta
+# Suraj Gupta
+# Anshu Yadav
